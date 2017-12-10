@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Project De Data Structures</string>
+
+    <!-- Login Activity -->
+        <!-- xml -->
+    <string name="textView_login">Login</string>
+    <string name="editText_username">Username</string>
+    <string name="editText_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="textView_attempts">Attempts Left: </string>
+
+        <!-- Java Class -->
+
+    <string name="toast_invalid_prompt">Invalid Username or Password!</string>
+    <string name="toast_redirecting">Redirecting..</string>
+
+    <!-- Quiz Instructions -->
+        <!-- xml -->
+    <string name="instructions"><u>Instructions</u></string>
+
+    <string name="instruct">Following are the instructions for the given Quiz!</string>
+    <string name="instruct_1">1) You are provided with respected number of questions.</string>
+    <string name="instruct_2">2) All the questions must be attempted.</string>
+    <string name="instruct_3">3) This quiz is based on True/False questionnaire.</string>
+    <string name="instruct_4">4) Total time of 5 minutes is provided.</string>
+
+    <string name="button_start_quiz">Start Quiz</string>
+    <string name="button_logout">Logout</string>
+
+        <!-- Java Class -->
+    <string name="toast_logout_prompt">Logging Out..</string>
+
+    <!-- Questionnaire Activity -->
+        <!-- xml -->
+
+    <string name="textview_time_left">Time Remaining: </string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_quit_quiz">Quit Quiz</string>
+    <string name="button_scores">View Scores</string>
+
+        <!-- Java Class -->
+
+    <string name="diff1_q1"></string>
+    <string name="diff1_q2">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="diff1_q3"></string>
+
+    <string name="diff2_q1">Are you out of your mind?</string>
+    <string name="diff2_q2">The Amazon River is the longest river in the Americas</string>
+    <string name="diff2_q3">Whats up?</string>
+
+    <string name="diff3_q1">Mad or what?</string>
+    <string name="diff3_q2">The Suez Canal connects the Red Sea and the Indian Ocean</string>
+    <string name="diff3_q3">Yes?</string>
+
+    <string name="diff4_q1">Hey</string>
+    <string name="diff4_q2">The source of the Nile River is in Egypt.</string>
+    <string name="diff4_q3">ok</string>
+
+    <string name="diff5_q1">Talha Saleem</string>
+    <string name="diff5_q2">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
+    <string name="diff5_q3">Paradigm</string>
+
+    <string name="diff6_q1">What\'s up</string>
+    <string name="diff6_q2">This is a True/False based question.</string>
+    <string name="diff6_q3">Hell</string>
+
+    <string name="diff7_q1">hello</string>
+    <string name="diff7_q2">Paris is in Italy</string>
+    <string name="diff7_q3">hi</string>
+
+    <string name="diff8_q1">Jangli</string>
+    <string name="diff8_q2">Karachi is a port.</string>
+    <string name="diff8_q3">deewana</string>
+
+    <string name="diff9_q1">12 Rabi</string>
+    <string name="diff9_q2">Google is in USA.</string>
+    <string name="diff9_q3">Lights</string>
+
+    <string name="diff10_q1">app</string>
+    <string name="diff10_q2">Android applications are mobile based.</string>
+    <string name="diff10_q3">Dev</string>
+
+    <!-- Result Activity -->
+        <!-- xml -->
+
+    <string name="textView_result"><u>Result</u></string>
+
+        <!-- Java Class -->
+
+    <string name="textView_success">Passed</string>
+    <string name="textView_failed">Failed</string>
+    <string name="textView_percentage">Percentage: </string>
+    <string name="textView_correctAnswers">Correct Answers: </string>
+    <string name="textView_incorrectAnswers">Incorrect Answers: </string>
+
+    <!-- Admin Menu Activity -->
+        <!-- xml -->
+    <string name="textView_admin_menu"><u>Admin Menu</u></string>
+    <string name="textView_selection">Welcome to Admin Menu. Please Select from the following.</string>
+    <string name="button_insert">Insert Questions</string>
+    <string name="button_delete">Delete Difficulty Level</string>
+    <string name="button_difficulty_level">Search Difficulty Level</string>
+
+    <!-- Insert Questions Activity -->
+        <!-- xml -->
+
+    <string name="textView_insert"><u>Insert Questions</u></string>
+    <string name="editText_difficulty_level">Enter Difficulty Level</string>
+    <string name="editText_question_1">Enter Question No. 1</string>
+    <string name="editText_question_2">Enter Question No. 2</string>
+    <string name="editText_question_3">Enter Question No. 3</string>
+    <string name="button_add">Add Questions</string>
+
+
+    <string name="textView_delete_questions"><u>Delete Questions</u></string>
+    <string name="textView_diffLevel">Enter difficulty Level.</string>
+    <string name="editText_diffLevel">Difficulty Level</string>
+    <string name="button_delete_question">Delete Question</string>
+</resources>
